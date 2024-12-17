@@ -88,13 +88,13 @@ curl -O http://127.0.0.1:5000/download/85_1734421479_with_subtitles.mp4
 
 贡献
 
-如果你想贡献代码，可以通过以下步骤：
-	1.	Fork 本项目
-	2.	创建一个新的分支 (git checkout -b feature-branch)
-	3.	提交更改 (git commit -am 'Add new feature')
-	4.	推送到分支 (git push origin feature-branch)
-	5.	创建一个新的 Pull Request
-
-许可
+如果你想贡献代码，可以通过以下步骤：  
+	1.	Fork 本项目  
+	2.	创建一个新的分支 (git checkout -b feature-branch)  
+	3.	提交更改 (git commit -am 'Add new feature')  
+	4.	推送到分支 (git push origin feature-branch)  
+	5.	创建一个新的 Pull Request  
+  
+许可  
 
 该项目遵循 MIT 许可协议。
