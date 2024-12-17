@@ -1,8 +1,6 @@
-import os
 import subprocess
 import whisper
 from datetime import timedelta
-from config.paths import PathConfig
 
 def extract_audio_from_video(video_path, audio_path, sample_rate=44000):
     """从视频中提取音频并保存为 wav 文件"""

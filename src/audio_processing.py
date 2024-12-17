@@ -1,5 +1,4 @@
 import whisper
-from config.paths import PathConfig
 
 def transcribe_audio(audio_path, language='zh'):
     """使用 Whisper 进行音频转录"""
